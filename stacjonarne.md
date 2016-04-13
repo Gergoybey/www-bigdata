@@ -54,6 +54,6 @@ Referaty z tematyki pracy (proszę wpisać tytuł):
 | 21.04.2016 | P. Krzyżanowski |       |
 | 21.04.2016 | P. Lewandowski  |       |
 | 28.04.2016 | D. Banasiak     |       |
-| 28.04.2016 | A. Pieper       |       |
+| 28.04.2016 | A. Pieper       |Przegląd technologi i istniejących gier geolokalizacyjnych/AR|
 | 28.04.2016 | M. Strzała      |       |
 | 28.04.2016 | P. Adamaszek    |       |
